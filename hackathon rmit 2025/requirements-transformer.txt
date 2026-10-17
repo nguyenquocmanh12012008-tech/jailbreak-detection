@@ -1,0 +1,4 @@
+# Install after requirements.txt. Select the PyTorch wheel that matches the
+# target runtime (CPU/CUDA); Kaggle images may already provide a suitable build.
+torch>=2.2,<3
+transformers>=4.45,<5
